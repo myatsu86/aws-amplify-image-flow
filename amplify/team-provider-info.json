@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "imageflow741cfc57": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2dnipv2wuawpp",
+          "type": "cicd"
+        }
       }
     }
   }
