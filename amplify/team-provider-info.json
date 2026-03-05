@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-imageflow-dev-76f83-authRole",
+      "UnauthRoleArn": "arn:aws:iam::203932541249:role/amplify-imageflow-dev-76f83-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::203932541249:role/amplify-imageflow-dev-76f83-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-imageflow-dev-76f83-deployment",
+      "UnauthRoleName": "amplify-imageflow-dev-76f83-unauthRole",
+      "StackName": "amplify-imageflow-dev-76f83",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:203932541249:stack/amplify-imageflow-dev-76f83/a177bf10-18b6-11f1-a3d6-0a3828a8e0f9",
+      "AmplifyAppId": "d2dnipv2wuawpp"
+    },
+    "categories": {
+      "auth": {
+        "imageflow741cfc57": {}
+      }
+    }
+  }
+}
